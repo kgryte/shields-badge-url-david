@@ -61,8 +61,8 @@ var opts = {
 var out = urls( opts );
 /*
 	{
-		"image": "https://img.shields.io/david/dstructs/array.svg?style=flat",
-		"url": "https://david-dm.org/dstructs/array"
+		"image": "https://img.shields.io/david/dev/dstructs/array.svg?style=flat",
+		"url": "https://david-dm.org/dstructs/array#info=devDependencies"
 	}
 */ 
 ```
