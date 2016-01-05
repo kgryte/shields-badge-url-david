@@ -1,0 +1,13 @@
+
+Usage: shields-david --owner=<owner> --repo=<repo> [options]
+
+Options:
+
+  -h,  --help                Print this message.
+  -V,  --version             Print the package version.
+       --owner owner         Repository owner.
+       --repo repo           Repository name.
+       --deps deps           Dependency type; e.g., 'dev', 'peer', etc.
+       --style style         Badge style. Default: 'flat'.
+       --format format       Badge format. Default: 'svg'.
+
