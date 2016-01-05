@@ -1,6 +1,6 @@
 {
   "name": "shields-badge-url-david",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Creates Shields.io badge URLs for David.",
   "author": {
     "name": "Athan Reines",
